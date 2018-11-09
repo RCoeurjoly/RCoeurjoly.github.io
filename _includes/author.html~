@@ -1,0 +1,12 @@
+<section class="author">
+    <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/0.jpeg)"></div>
+    <div class="authorinfo box">
+	<p>
+	    Author | Zac Wood
+	</p>
+	
+	<p class="bio">
+	    Currently a student at George Mason University studying Computer Science. Probably in Emacs right now.
+	</p>
+    </div>
+</section>

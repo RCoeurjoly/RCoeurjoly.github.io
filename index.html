@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+    Hi! I'm Zac, and this is my website. Here you can find a
+    collection of both my open source projects and the blog posts I've
+    written about various things that interest me.
+
+    <br/><br/>
+    <div class="post-list">
+	<h1>Blog</h1>
+	{% for post in site.categories['blog'] limit:5 %}
+	<article class="post_card post">
+	    <header class="post_header">
+		<h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+		<time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+	    </header>
+	    <div class="post_excerpt">
+		<p>
+		    {% if post.description %}
+		    {{ post.description}}
+		    {% else %}
+		    {{ post.excerpt }}
+		    {% endif %} 
+		    <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+		</p> 
+	    </div>
+	    <footer class="post_meta">
+
+
+		{% if post.location %}
+		<span class="author-location">
+		    <div data-icon="ei-location"></div>
+		    <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
+		</span>
+		{% endif %}
+
+
+	    </footer>
+	    <hr/>
+	</article>
+	{% endfor %}
+	<div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
+    </div>
+</div>
