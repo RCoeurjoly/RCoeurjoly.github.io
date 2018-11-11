@@ -26,7 +26,7 @@ What does “most of the text” mean? Roughly 99%.
 
 How fast can you learn new words? You can learn a new word when you encounter it 7 times in different, comprehensible contexts.
 
-The comprehension constraint is very strict: if the unknown words reach 3 per cent, you can no longer understand the text.
+This comprehension constraint is very strict: if the unknown words reach 3 per cent, you can no longer understand the text.
 
 So, a book that introduces vocabulary more slowly is less demanding on the mental bandwidth of the reader, whereas a difficult book does not.
 
