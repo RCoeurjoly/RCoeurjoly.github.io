@@ -1,0 +1,14 @@
+#+OPTIONS: toc:nil num:nil
+
+
+#+BEGIN_EXPORT html
+---
+layout: post
+title: Crazy ideas about next generation input and output human machine interfaces
+subtitle: 
+tags: [steno, speed listening, ]
+category: blog
+---
+#+END_EXPORT
+
+One of the most powerful technologies human beings have developed is text, written text.
