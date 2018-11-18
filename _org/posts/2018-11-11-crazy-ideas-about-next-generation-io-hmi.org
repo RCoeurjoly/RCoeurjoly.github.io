@@ -12,3 +12,19 @@ category: blog
 #+END_EXPORT
 
 One of the most powerful technologies human beings have developed is text, written text.
+
+Writing is one of if not the most efficient way to communicate ideas.
+
+Reading is one of if not the most efficient way to absorb ideas.
+
+* Writing
+People that know the most about fast and efficient ways to write are those who write the most, like stenographers.
+** Making it mobile
+Work should be done addressing this issue.
+The creator of OpenSteno has written a post about the issue.
+Como se llama el puño americano para teclear?
+* Reading
+Here I refer to the wonderful post by ... in TurnKeyLinux.
+If we use speed listening, we can liberate the eyes. What about code?
+** Making it mobile
+Nothing special. Just earphones
