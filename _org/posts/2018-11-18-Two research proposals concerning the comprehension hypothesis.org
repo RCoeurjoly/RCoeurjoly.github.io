@@ -1,0 +1,17 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+layout: post
+title: Two research proposals concerning the comprehension hypothesis
+subtitle: 
+tags: [language acquisition, comprehension hypothesis, stenography, literate programming]
+category: blog
+#+END_EXPORT
+
+The first proposal is concerned with learning stenography. The second, with programming.
+# Stenography 
+Stenography is 'the action or process of writing in shorthand and transcribing the shorthand on a typewriter'.
+The traditional method of learning stenography is very similar to the traditional method of language learning.
+It consists of a combination of rules, translation and practice. It is low efficiency has the result of a high attrition rate.
+I propose a learning method consistent with the comprehension hypothesis.
+It consists of reading the shorthand while simultaneously listening to the audio version of the same text.
+ 
