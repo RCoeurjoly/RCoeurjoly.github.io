@@ -35,5 +35,7 @@ disqus_shortname:
 collections:
   notes:
     output: true
+    permalink: /notes/:path/
+
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
