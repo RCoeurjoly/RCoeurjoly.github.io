@@ -30,8 +30,9 @@ projects:
 
 # Third-party services
 # just leave someone empty to disable it
-# google_analytics: 
+# google_analytics:
 disqus_shortname:
-
+collections:
+  - notes
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
