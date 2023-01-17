@@ -9,5 +9,4 @@ permalink: "/notes/"
     <a href="{{ note.url }}">
     </a>
   </h2>
-  <p>{{ note.content }}</p>
 {% endfor %}
